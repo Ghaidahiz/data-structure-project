@@ -9,11 +9,11 @@ public class Main {
         return new LinkedList2<>();
     } 
 
-    public static void removeStopWords(LinkedList<Integer> indexList){
+    public static void removeStopWords(LinkedList2<Integer,String> indexList){
 
     }
 
-    public static LinkedList2<String, Integer> createInvertedIndex (){
+    public static LinkedList2<String, Integer> createInvertedIndexList (){
         return new LinkedList2<>();
     }
 }
