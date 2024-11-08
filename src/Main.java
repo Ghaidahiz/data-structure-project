@@ -1,7 +1,7 @@
 package src;
 public class Main {
     public static void main(String[] args) throws Exception {
-        System.out.println("Hello, girls!,almaha,ghaida finally :(");
+        System.out.println("Hello, girls!,almaha,ghaida finally :)");
     }
 
     public static LinkedList2<Integer,String > createIndexList(){
